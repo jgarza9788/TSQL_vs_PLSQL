@@ -242,6 +242,3 @@ Multi-line comment
 */
 ```
 
----
-
-This document provides a high-level comparison of the syntactical differences between T-SQL and PL/SQL for common database operations. Each SQL dialect has its own unique set of capabilities and limitations, so it's important to understand these differences when migrating or working in a cross-platform environment.
